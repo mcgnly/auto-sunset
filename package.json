@@ -1,0 +1,14 @@
+{
+  "name": "auto-sunset",
+  "version": "1.0.0",
+  "description": "a tiny sunset for twitter",
+  "main": "autosunset.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "mcgnly",
+  "license": "ISC",
+  "dependencies": {
+    "tracery-grammar": "^2.7.4"
+  }
+}
